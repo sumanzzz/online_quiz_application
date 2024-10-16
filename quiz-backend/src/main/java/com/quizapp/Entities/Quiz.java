@@ -1,4 +1,4 @@
-package com.quizapp.quiz_backend;
+package com.quizapp.Entities;
 import java.util.List;
 
 import jakarta.persistence.*;
